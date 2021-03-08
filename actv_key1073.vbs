@@ -1,0 +1,1 @@
+x=msgbox("A virus has been detected, 'Windows Activation' Carries a trojan horse, Please Take immediate action!", 0+48, "VIRUS DETECTED!")
